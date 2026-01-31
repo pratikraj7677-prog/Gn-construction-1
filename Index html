@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GN Construction and Furniture - Muzaffarpur</title>
+    <style>
+        body { font-family: 'Arial', sans-serif; margin: 0; padding: 0; color: #333; }
+        header { background: #2c3e50; color: white; padding: 20px; text-align: center; }
+        .hero { background: #f39c12; color: white; padding: 60px 20px; text-align: center; }
+        .services { display: flex; flex-wrap: wrap; justify-content: space-around; padding: 40px; }
+        .service-card { border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 20px; margin: 10px; text-align: center; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); }
+        .contact { background: #ecf0f1; padding: 40px; text-align: center; }
+        .btn { background: #e67e22; color: white; padding: 15px 25px; text-decoration: none; border-radius: 5px; font-weight: bold; }
+        footer { background: #2c3e50; color: white; text-align: center; padding: 10px; position: relative; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>GN Construction and Furniture</h1>
+    <p>मुजफ्फरपुर का भरोसेमंद नाम</p>
+</header>
+
+<div class="hero">
+    <h2>सपनों का घर, अब हकीकत में!</h2>
+    <p>मजबूत निर्माण और शानदार फर्नीचर एक ही जगह।</p><br>
+    <a href="tel:7903327922" class="btn">अभी कॉल करें: 7903327922</a>
+</div>
+
+<section class="services">
+    <div class="service-card">
+        <h3>🏠 नया निर्माण</h3>
+        <p>मजबूत नींव और आधुनिक डिजाइन के साथ घर का निर्माण।</p>
+    </div>
+    <div class="service-card">
+        <h3>🛠️ रिनोवेशन</h3>
+        <p>पुराने घर को नया और लग्जरी लुक देने के लिए बेस्ट सर्विस।</p>
+    </div>
+    <div class="service-card">
+        <h3>🪑 प्रीमियम फर्नीचर</h3>
+        <p>सागवान और हाई-क्वालिटी लकड़ी से बना कस्टमाइज्ड फर्नीचर।</p>
+    </div>
+</section>
+
+<section class="contact">
+    <h2>संपर्क करें</h2>
+    <p><b>पता:</b> लकड़ी ढाई, चंदवारा, मुजफ्फरपुर</p>
+    <p><b>ईमेल:</b> Gnconstructionpvtltd@gmail.com</p>
+    <p><b>WhatsApp:</b> 7903327922</p>
+</section>
+
+<footer>
+    <p>&copy; 2026 GN Construction and Furniture | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
